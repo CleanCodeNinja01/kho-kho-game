@@ -42,7 +42,7 @@ A match is **2 innings**, each with **2 turns** (one chase per team).
 
 You may **declare** (end your chase early) after scoring more than 9 in your first chase, or after any score greater than 0 in inning 2.
 
-Full design notes live in [GDD.md](GDD.md).
+Full design notes live in [GDD.md](GDD.md). The as-built rules, numbers, scenes, and acceptance checklist are in [SPEC.md](SPEC.md).
 
 ## Controls
 
