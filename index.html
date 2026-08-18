@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kho Kho — Digital Edition</title>
+    <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+    <div id="game-container"></div>
+    <div id="hud" hidden>
+        <div class="hud-bar">
+            <div class="hud-scores">
+                <span>A <strong id="score-a">0</strong></span>
+                <span class="hud-sep">–</span>
+                <span>B <strong id="score-b">0</strong></span>
+            </div>
+            <div>Time <strong id="timer">02:00</strong></div>
+            <div>Inning <strong id="inning">1/2</strong></div>
+            <div id="role">You Chase</div>
+            <div>Batch <strong id="batch">3/3</strong></div>
+            <div>Left <strong id="cycle">9/9</strong></div>
+            <span id="foul-flag" hidden>FOUL</span>
+            <span id="must-kho" hidden>KHO NEEDED</span>
+            <button type="button" id="declare-btn" hidden>Declare</button>
+        </div>
+        <div id="action-prompt">PRESS SPACE TO KHO!</div>
+        <p id="control-hint">WASD move · Space kho · Shift dive · Esc pause</p>
+    </div>
+    <script type="module" src="./src/main.js"></script>
+</body>
+</html>
