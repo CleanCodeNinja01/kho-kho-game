@@ -4,7 +4,7 @@ A top-down 2D web game based on the traditional Indian sport **Kho Kho**, using 
 
 You play as **Team A**: chase on your turns, defend on theirs. Eight chasers sit on the central lane facing alternate sides; you are the active attacker until you give a **Kho**.
 
-**Play:** [cleancodeninja01.github.io/kho-kho-game](https://cleancodeninja01.github.io/kho-kho-game/)
+**Play:** [kho-kho-game.vercel.app](https://kho-kho-game.vercel.app/) · [GitHub Pages](https://cleancodeninja01.github.io/kho-kho-game/)
 
 ![Phaser](https://img.shields.io/badge/Phaser-4.2-yellow) ![Vite](https://img.shields.io/badge/Vite-8-646cff) ![License](https://img.shields.io/badge/license-ISC-lightgrey)
 

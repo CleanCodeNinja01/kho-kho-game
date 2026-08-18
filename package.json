@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "description": "Traditional Kho Kho as a top-down Phaser 4 web game",
-  "homepage": "https://cleancodeninja01.github.io/kho-kho-game/",
+  "homepage": "https://kho-kho-game.vercel.app/",
   "devDependencies": {
     "autoprefixer": "^10.5.4",
     "phaser": "^4.2.1",
